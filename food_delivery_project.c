@@ -1,3 +1,9 @@
+// Parth Goswami
+// Yashwant Dhakar
+// Srishty Singh
+// Pranav Tanwar
+// Pramit Kumar
+
 #include<stdio.h>
  typedef struct item{
     char name[50];
